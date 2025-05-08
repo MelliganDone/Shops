@@ -1,0 +1,1 @@
+worker: cd bot2 && python bot.py
